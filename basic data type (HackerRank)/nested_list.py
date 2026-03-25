@@ -8,9 +8,9 @@ score_list=[]
 name_list=[]
 record_list=[]
     
-for _ in range(int(input())):
-    name = input()
-    score = float(input())
+for _ in range(int(input('entre your number:'))):
+    name = input('entre name:')
+    score = float(input('entre score:'))
     record=[name,score]
     score_list.append(score)
     name_list.append(name)
