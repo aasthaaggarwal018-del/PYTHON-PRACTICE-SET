@@ -14,10 +14,10 @@ perform the corresponding operation on your list
 '''
 
 
-n = int(input())
+n = int(input('entre no commands:'))
 list_ = []
 for i in range (n):
-    a=input().split()
+    a=input('entre your command:').split()
     if a[0]=='insert':
         list_.insert(int(a[1]),int(a[2]))
     elif a[0]=='print':
