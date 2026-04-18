@@ -8,4 +8,3 @@ You can create fun video games.
 It works on all major systems.
 Huge libraries make coding much faster.
 Start your coding journey with Python.
-i am learning 
