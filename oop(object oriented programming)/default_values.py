@@ -16,3 +16,4 @@ laptop_2.price='3lakh'
 
 print(laptop_1.brand  , laptop_1.ram , laptop_1.price , sep='\n')
 print(laptop_2.brand  , laptop_2.ram , laptop_2.price , sep='\n')
+
