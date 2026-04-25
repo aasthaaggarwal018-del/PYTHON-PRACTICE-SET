@@ -10,5 +10,5 @@ class student:
 # object creation
 a=student()
 print(a.name)
-print(a.status)
+
  
