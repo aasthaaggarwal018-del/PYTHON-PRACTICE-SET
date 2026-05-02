@@ -3,12 +3,10 @@
   <em>Your ultimate gateway to mastering Python fundamentals through hands-on practice.</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
-  <img src="https://img.shields.io/github/license/user/repo?style=flat&color=blue" alt="License">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs Welcome">
-  <img src="https://img.shields.io/github/stars/user/repo?style=social" alt="GitHub Stars">
-</p>
+
+✅ **Build: Passing** | ⚖️ **License: MIT** | 🤝 **PRs: Welcome** | ⭐ **Stars: Active**
+
+---
 
 ---
 
