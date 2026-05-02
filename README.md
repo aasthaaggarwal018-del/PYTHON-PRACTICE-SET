@@ -8,8 +8,6 @@
 
 ---
 
----
-
 ## The Strategic "Why"
 
 > Many aspiring Python developers face a common challenge: bridging the gap between theoretical knowledge and practical application. Without structured, hands-on practice, concepts like data types, functions, and Object-Oriented Programming (OOP) remain abstract, hindering true mastery and confidence in coding.
